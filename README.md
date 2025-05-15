@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://azevedothuu.github.io/perfil/images/sufista-observador.png" width="100" alt="Surfista Prateado Observador"/>
+  <img src="https://azevedothuu.github.io/perfil/images/sufista-observador.png" width="200" alt="Surfista Prateado Observador"/>
 </p>
 
 <h1 align="center">Arthur Azevedo</h1>
