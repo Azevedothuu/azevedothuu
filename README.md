@@ -12,6 +12,13 @@
  Atualmente, estou criando um **fórum online de manutenção de computadores** como TCC, unindo minha paixão.
 
 ---
+<p align="center">
+  <a href="https://instagram.com/huazevedo" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
+
+---
 
 🚀 Linguagens e Tecnologias
 
@@ -19,8 +26,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" width="50" alt="MySQL Workbench"/>
 </p>
-
 ---
 
 📊 Estatísticas
