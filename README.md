@@ -28,10 +28,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" width="50" alt="MySQL Workbench"/>
 </p>
+
 ---
 
 📊 Estatísticas
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Azevedothuu&show_icons=true&theme=transparent" alt="Estatísticas do GitHub de Azevedothuu"/>
 </p>
