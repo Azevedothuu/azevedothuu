@@ -21,7 +21,7 @@ Me chamo Arthur Azevedo, estudante de Técnico em Informática e fissurado por d
 
 🚀 Linguagens e Tecnologias
 
-<p align="center">
+<p align="center" style="gap-2">
   <!-- React -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" alt="React"/>
   
