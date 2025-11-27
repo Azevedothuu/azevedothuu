@@ -20,9 +20,9 @@ Me chamo Arthur Azevedo, estudante de Técnico em Informática e fissurado por d
 ---
 
 🚀 Linguagens e Tecnologias
-<div style="display: flex; justify-content: center; gap: 5px;>
+<div style="display: flex; align: center; justify-content: center; gap: 5px;>
 
-<p align="center" ">
+<p>
   <!-- React -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" alt="React"/>
   
