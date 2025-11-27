@@ -8,8 +8,7 @@
 </p>
 
 
-* Me chamo **Arthur Azevedo**, sou estudante de Técnico em Informática, apaixonado por programação. Gosto muito de desenvolver projetos com **HTML** e **CSS**, botando a mão na massa e vendo o resultado tomar forma.
- Atualmente, estou criando um **fórum online de manutenção de computadores** como TCC, unindo minha paixão.
+Me chamo Arthur Azevedo, estudante de Técnico em Informática e fissurado por desenvolvimento web. Hoje meu foco é construir interfaces e sistemas usando React, Next.js e TypeScript, sempre prezando por estrutura, clareza e aquele código que qualquer dev experiente bate o olho e entende. No meu TCC, estou criando um fórum online de manutenção de computadores, juntando minha bagagem técnica com um projeto que realmente resolve problema de gente real — nada de teoria vazia, é mão na massa de verdade.
 
 ---
 <p align="center">
@@ -23,11 +22,28 @@
 🚀 Linguagens e Tecnologias
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" width="50" alt="MySQL Workbench"/>
+  <!-- React -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" alt="React"/>
+  
+  <!-- Next.js -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="55" alt="Next.js"/>
+  
+  <!-- Node.js -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55" alt="Node.js"/>
+
+  <!-- TypeScript -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="55" alt="TypeScript"/>
+
+  <!-- JavaScript -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" alt="JavaScript"/>
+
+  <!-- CSS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" alt="CSS"/>
+
+  <!-- Tailwind -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="55" alt="Tailwind"/>
 </p>
+
 
 ---
 
