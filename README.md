@@ -20,8 +20,9 @@ Me chamo Arthur Azevedo, estudante de Técnico em Informática e fissurado por d
 ---
 
 🚀 Linguagens e Tecnologias
+<div style="display: flex; justify-content: center; gap: 5px;>
 
-<p align="center" style="display: flex; justify-content: center; gap: 20px;">
+<p align="center" ">
   <!-- React -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" alt="React"/>
   
@@ -43,6 +44,9 @@ Me chamo Arthur Azevedo, estudante de Técnico em Informática e fissurado por d
   <!-- Tailwind -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="55" alt="Tailwind"/>
 </p>
+
+  
+</div>
 
 
 ---
