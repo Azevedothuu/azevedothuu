@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Arthur Azevedo</h1>
-<h3 align="center">Técnico de Informática | Desenvolvedor Front-End</h3>
+<h3 align="center">Desenvolvedor Front-End </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/huazevedo" target="_blank">
