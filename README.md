@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://azevedothuu.github.io/perfil/images/sufista-observador.png" width="150" alt="Surfista Prateado Observador - Avatar de Arthur Azevedo"/>
-</p>
+
 
 <h1 align="center">Arthur Azevedo</h1>
 <h3 align="center">Desenvolvedor Front-End </h3>
